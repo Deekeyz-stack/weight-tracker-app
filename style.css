@@ -1,0 +1,76 @@
+body{
+    background-image: url(/images/abstract-architectural-art-artistic-532563.jpg);
+    background-size: cover; 
+    /* background: aqua; */
+    /* background-size: contain; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+    font-weight: 40px;
+    color: blue;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    font: 40px;
+    padding: 10px;
+    margin: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.input-a{
+    height: 25px;
+    width: 85%;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+
+.button{
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 40px;
+    padding: 10px;
+    line-height: 10px;
+    text-decoration: none;
+    color:green;
+}
+
+.section-sec{
+    flex: 50%;
+    position: absolute;
+    left: 30%;
+    padding: 10px;
+    margin: 10px;
+}
+
+ul li{
+    text-decoration: none;
+    list-style-type: none;
+    margin-right: 30%;
+    border-radius: 30px;
+}
+
+footer{
+    color: white;
+    font-weight: 50px;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40%;
+}
+
+.btn{
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 10px;
+    text-decoration: none;
+    color:green;
+}
