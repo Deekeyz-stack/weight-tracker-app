@@ -1,2 +1,2 @@
 #my App
-This is my firts html beginner project
+This is my first html beginner project
